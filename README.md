@@ -1,4 +1,7 @@
-# vuetify-file-upload
+# Vuetify File Upload example
+
+For more details, please visit:
+> [Vuetify File Upload example with Progress Bar](https://bezkoder.com/vuetify-file-upload/)
 
 ## Project setup
 ```
